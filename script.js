@@ -136,7 +136,6 @@ function changeContent(section) {
                         <div class="trivia-container">
                         <div id="trivia-content"></div>
                         <div id="timer"></div>
-                        <div class="disclaimer"><p>*This is a passion project that is currently under development. In the future I intend to add a variety of interactive features and eventually have this be its own trivia site.</p></div>
                         </div>
                     `;
                     startTriviaGame();
